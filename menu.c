@@ -6,6 +6,7 @@ void vereficaContrato(int idade){
 	else
 	printf("Pode ser Aprendiz.\n");
 }	
+//
 double aumentaSalario(double salario){
 	double porcentagem;
 	printf("Digite a porcentagem que deseja aumentar o salário: ");
